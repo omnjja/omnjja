@@ -5,8 +5,8 @@
 # 💫 About Me
 - 🔭 currently working on **Frontend projects using React and my graduation project.**
 - 🌱 currently learning **React Native and TypeScript**
-- 👯 I'm looking to collaborate on **Open-source projects, frontend projects using React, and backend projects using Spring Boot.**
-- 🤝 I'm looking for help with **System Design, Testing, and Deployment.**
+- 👯 looking to collaborate on **Open-source projects, frontend projects using React, and backend projects using Spring Boot.**
+- 🤝 looking for help with **System Design, Testing, and Deployment.**
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1CgdmI65wSxv-96Lcn9MHiKOgaYVHoeXg/view?usp=sharing](https://drive.google.com/file/d/1CgdmI65wSxv-96Lcn9MHiKOgaYVHoeXg/view?usp=sharing)**
 - 📫 Reach me at **omniahesham910@gmail.com**
 
