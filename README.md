@@ -12,7 +12,7 @@
 
 <!-- - 💬 Ask me about **Python, C++, Java, JavaScript, HTML, CSS, React, Tailwind, Spring Boot, SQL, OOP, OOD, SOLID Principles, and Data Structures.** -->
 
-## 🌐 Connect me with:
+## 🌐 Connect me
 <p align="left">
 <a href="https://github.com/omnjja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="omnjja" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/omnia-hesham-27-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/omnia-hesham-27-" height="30" width="40" /></a>
