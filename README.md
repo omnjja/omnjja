@@ -1,6 +1,6 @@
 # Hello, I'm Omnia Hesham
 
-### Software Engineer—Senior IS Student at FCAI, passionate about building impactful projects.
+### Software Engineer—Senior IS Student at FCAI
 
 # 💫 About Me
 - 🔭 currently working on **Frontend projects using React and my graduation project.**
