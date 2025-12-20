@@ -7,7 +7,7 @@
 - 🌱 currently learning **React Native and TypeScript**
 - 👯 looking to collaborate on **Open-source projects, frontend projects using React, and backend projects using Spring Boot.**
 - 🤝 looking for help with **System Design, Testing, and Deployment.**
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1CgdmI65wSxv-96Lcn9MHiKOgaYVHoeXg/view?usp=sharing](https://drive.google.com/file/d/1CgdmI65wSxv-96Lcn9MHiKOgaYVHoeXg/view?usp=sharing)**
+- 📄 Know about my experiences **[https://drive.google.com/drive/folders/19xxo10S0pAhFqq9BPHy7yU-EYobDZES5?usp=sharing](https://drive.google.com/drive/folders/19xxo10S0pAhFqq9BPHy7yU-EYobDZES5?usp=sharing)**
 - 📫 Reach me at **omniahesham910@gmail.com**
 
 <!-- - 💬 Ask me about **Python, C++, Java, JavaScript, HTML, CSS, React, Tailwind, Spring Boot, SQL, OOP, OOD, SOLID Principles, and Data Structures.** -->
