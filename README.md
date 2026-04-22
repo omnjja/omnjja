@@ -1,30 +1,94 @@
-# Hello, I'm Omnia Hesham
+# 👋 Hello, I'm Omnia Hesham
 
-### Software Engineer—Senior IS Student at FCAI
+### 💻 Software Engineer | Senior IS Student at FCAI
 
-# 💫 About Me
-- 🔭 currently working on **Frontend projects using React and my graduation project.**
-- 🌱 currently learning **React Native and TypeScript**
-- 👯 looking to collaborate on **Open-source projects, frontend projects using React, and backend projects using Spring Boot.**
-- 🤝 looking for help with **System Design, Testing, and Deployment.**
-- 📄 Know about my experiences **[https://drive.google.com/drive/folders/19xxo10S0pAhFqq9BPHy7yU-EYobDZES5?usp=sharing](https://drive.google.com/drive/folders/19xxo10S0pAhFqq9BPHy7yU-EYobDZES5?usp=sharing)**
-- 📫 Reach me at **omniahesham910@gmail.com**
+---
 
-<!-- - 💬 Ask me about **Python, C++, Java, JavaScript, HTML, CSS, React, Tailwind, Spring Boot, SQL, OOP, OOD, SOLID Principles, and Data Structures.** -->
+## 🚀 About Me
+- 🔭 Currently working on frontend projects using React & my graduation project  
+- 🌱 Currently learning React Native & TypeScript  
+- 👯 Open to collaborating on open-source, frontend (React), and backend (Spring Boot) projects  
+- 🤝 Interested in System Design, Testing, and Deployment  
+- 📫 Contact: omniahesham910@gmail.com  
+- 📄 Resume: [Find Here](https://drive.google.com/drive/folders/19xxo10S0pAhFqq9BPHy7yU-EYobDZES5?usp=sharing)
 
-## 🌐 Connect me
-<p align="left">
-<a href="https://github.com/omnjja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="omnjja" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/omnia-hesham-27-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/omnia-hesham-27-" height="30" width="40" /></a>
-<!-- <a href="https://leetcode.com/omnjja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omnjja" height="30" width="40" /></a> -->
+---
+
+## 🌐 Connect with Me
+- GitHub: [omnjja](https://github.com/omnjja)  
+- LinkedIn: [Omnia Hesham](https://linkedin.com/in/omnia-hesham-27-)
+
+---
+
+## 💻 Tech Stack
+
+### 🧠 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js" />
 </p>
 
+---
 
-# 💻 Tech Stack
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mssql" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
 
+<p>
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+</p>
 
-<!-- # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=omnjja&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=omnjja&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omnjja&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+---
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=spring" />
+</p>
+
+---
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
+</p>
+
+---
+
+### 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode" />
+</p>
+
+---
+
+### 📌 Concepts
+
+<p>
+  <img src="https://img.shields.io/badge/OOP-007ACC?style=for-the-badge&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOD-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOLID-FF6B6B?style=for-the-badge&logo=gitbook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design_Patterns-6C63FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Data_Structures-1F8ACB?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Algorithms-FFA116?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile-28A745?style=for-the-badge&logo=trello&logoColor=white" />
+</p>
+
+---
+
+### 🌐 Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel" />
+</p>
+
+---
+
+<!-- Optional GitHub Stats -->
+<!--
+## 📊 GitHub Stats
+![stats](https://github-readme-stats.vercel.app/api?username=omnjja&theme=dark)
+-->
