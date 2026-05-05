@@ -1,94 +1,90 @@
-# 👋 Hello, I'm Omnia Hesham
+<div align="center">
 
-### 💻 Software Engineer | Senior IS Student at FCAI
+# Omnia Hesham Abdelmaboud
+### Software Engineer · Front-End Developer · Cairo University '26
 
----
+[![Email](https://img.shields.io/badge/omniahesham910@gmail.com-0A0A0A?style=flat-square&logo=gmail&logoColor=white)](mailto:omniahesham910@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/omnia-hesham-27-)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/omnjja)
+[![Resume](https://img.shields.io/badge/Resume-4A90D9?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/19xxo10S0pAhFqq9BPHy7yU-EYobDZES5?usp=sharing)
 
-## 🚀 About Me
-- 🔭 Currently working on frontend projects using React & my graduation project  
-- 🌱 Currently learning React Native & TypeScript  
-- 👯 Open to collaborating on open-source, frontend (React), and backend (Spring Boot) projects  
-- 🤝 Interested in System Design, Testing, and Deployment  
-- 📫 Contact: omniahesham910@gmail.com  
-- 📄 Resume: [Find Here](https://drive.google.com/drive/folders/19xxo10S0pAhFqq9BPHy7yU-EYobDZES5?usp=sharing)
+</div>
 
 ---
 
-## 🌐 Connect with Me
-- GitHub: [omnjja](https://github.com/omnjja)  
-- LinkedIn: [Omnia Hesham](https://linkedin.com/in/omnia-hesham-27-)
+## About
+
+Software Engineer specializing in front-end development with React. I build full-stack applications with a focus on clean architecture, intuitive UX, and scalable APIs.
+
+Currently finalizing my Computer Science degree at Cairo University (graduating July 2026) and completing **Hirely** — a full-stack graduation project. Actively seeking a junior software engineering role.
+
+- 🎓 B.Sc. Computer Science — Cairo University, FCAI · GPA 3.16 / 4.0
+- 🏢 Interned at **EgnorX** (Software Engineering) · Trained at **NTI** (Data Analytics) & **DEPI** (Web Development)
+- 🌱 Currently deepening: **TypeScript**, **React Native**, **System Design**
+- 🤝 Open to: Junior SWE roles, frontend opportunities, open-source collaboration
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-### 🧠 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js" />
-</p>
+**Languages**
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-</p>
+**Frontend**
 
-<p>
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
----
+**Backend & APIs**
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=spring" />
-</p>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
----
+**Databases**
 
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
----
+**Tools & Practices**
 
-### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
----
-
-### 📌 Concepts
-
-<p>
-  <img src="https://img.shields.io/badge/OOP-007ACC?style=for-the-badge&logo=bookstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOD-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/SOLID-FF6B6B?style=for-the-badge&logo=gitbook&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design_Patterns-6C63FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Data_Structures-1F8ACB?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Algorithms-FFA116?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agile-28A745?style=for-the-badge&logo=trello&logoColor=white" />
-</p>
+![OOP](https://img.shields.io/badge/OOP-007ACC?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID-6C63FF?style=flat-square)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-FF6B6B?style=flat-square)
+![Data Structures](https://img.shields.io/badge/DSA-1F8ACB?style=flat-square)
+![Agile](https://img.shields.io/badge/Agile-28A745?style=flat-square)
 
 ---
 
-### 🌐 Deployment
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel" />
-</p>
+## Featured Projects
+
+| Project | Role | Stack | Links |
+|---|---|---|---|
+| **Hirely** *(In Progress)* | Full-Stack · Graduation Project | React, Node | 🔒 Private |
+| **Petify** | UI Designer & Front-End Dev | React, Axios, Context API, Tailwind | [Repo](https://github.com/omnjja) · [Live](https://github.com/omnjja) |
+| **E-Commerce Store** | Front-End Developer | React, Tailwind, DaisyUI, Vercel | [Repo](https://github.com/omnjja) · [Live](https://github.com/omnjja) |
+| **Furniture Home** | Backend Developer | Spring Boot, Java, MySQL, REST APIs | [Repo](https://github.com/omnjja) |
+| **Material Stream ID** | ML Engineer | Python, OpenCV, scikit-learn, SVM | [Repo](https://github.com/omnjja) |
+| **CPU Scheduler Simulator** | Developer | Java, JavaFX | [Repo](https://github.com/omnjja) |
 
 ---
 
-<!-- Optional GitHub Stats -->
-<!--
-## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=omnjja&theme=dark)
--->
+<div align="center">
+  <i>Open to junior SWE roles & collaborations — let's build something great.</i>
+</div>
