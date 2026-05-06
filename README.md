@@ -16,10 +16,9 @@
 
 Software Engineer specializing in front-end development with React. I build full-stack applications with a focus on clean architecture, intuitive UX, and scalable APIs.
 
-Currently finalizing my Computer Science degree at Cairo University (graduating July 2026) and completing **Hirely** — a full-stack graduation project. Actively seeking a junior software engineering role.
+Currently finalizing my Computer Science degree at Cairo University (graduating July 2026) and completing **Hirely** — AI powered recruitment system. Actively seeking a junior software engineering role.
 
 - 🎓 B.Sc. Computer Science — Cairo University, FCAI · GPA 3.16 / 4.0
-- 🏢 Interned at **EgnorX** (Software Engineering) · Trained at **NTI** (Data Analytics) & **DEPI** (Web Development)
 - 🌱 Currently deepening: **TypeScript**, **React Native**, **System Design**
 - 🤝 Open to: Junior SWE roles, frontend opportunities, open-source collaboration
 
