@@ -5,7 +5,6 @@
 
 [![Email](https://img.shields.io/badge/omniahesham910@gmail.com-0A0A0A?style=flat-square&logo=gmail&logoColor=white)](mailto:omniahesham910@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/omnia-hesham-27-)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/omnjja)
 [![Resume](https://img.shields.io/badge/Resume-4A90D9?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/19xxo10S0pAhFqq9BPHy7yU-EYobDZES5?usp=sharing)
 
 </div>
@@ -14,11 +13,11 @@
 
 ## About
 
-Software Engineer specializing in front-end development with React. I build full-stack applications with a focus on clean architecture, intuitive UX, and scalable APIs.
+Front-End Developer specializing in React. I build responsive web applications with clean UI design, smooth user experiences, and seamless integration with backend APIs.
 
-Currently finalizing my Computer Science degree at Cairo University (graduating July 2026) and completing **Hirely** — AI powered recruitment system. Actively seeking a junior software engineering role.
+Currently finalizing my Computer Science degree at Cairo University (graduating July 2026) and completing **Hirely** — AI powered recruitment system.
 
-- 🎓 B.Sc. Computer Science — Cairo University, FCAI · GPA 3.16 / 4.0
+- 🎓 B.Sc. Computer Science — Cairo University, FCAI
 - 🌱 Currently deepening: **TypeScript**, **React Native**, **System Design**
 - 🤝 Open to: Junior SWE roles, frontend opportunities, open-source collaboration
 
@@ -29,7 +28,6 @@ Currently finalizing my Computer Science degree at Cairo University (graduating 
 **Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -75,12 +73,10 @@ Currently finalizing my Computer Science degree at Cairo University (graduating 
 
 | Project | Role | Stack | Links |
 |---|---|---|---|
-| **Hirely** *(In Progress)* | Full-Stack · Graduation Project | React, Node | 🔒 Private |
+| **Hirely** *(In Progress)* | Front-End Dev · Graduation Project | React, Node | 🔒 Private |
 | **Petify** | UI Designer & Front-End Dev | React, Axios, Context API, Tailwind | [Repo](https://github.com/omnjja) · [Live](https://github.com/omnjja) |
 | **E-Commerce Store** | Front-End Developer | React, Tailwind, DaisyUI, Vercel | [Repo](https://github.com/omnjja) · [Live](https://github.com/omnjja) |
 | **Furniture Home** | Backend Developer | Spring Boot, Java, MySQL, REST APIs | [Repo](https://github.com/omnjja) |
-| **Material Stream ID** | ML Engineer | Python, OpenCV, scikit-learn, SVM | [Repo](https://github.com/omnjja) |
-| **CPU Scheduler Simulator** | Developer | Java, JavaFX | [Repo](https://github.com/omnjja) |
 
 ---
 
