@@ -15,8 +15,6 @@
 
 Front-End Developer specializing in React. I build responsive web applications with clean UI design, smooth user experiences, and seamless integration with backend APIs.
 
-Currently finalizing my Computer Science degree at Cairo University (graduating July 2026) and completing **Hirely** — AI powered recruitment system.
-
 - 🎓 B.Sc. Computer Science — Cairo University, FCAI
 - 🌱 Currently deepening: **TypeScript**, **React Native**, **System Design**
 - 🤝 Open to: Junior SWE roles, frontend opportunities, open-source collaboration
@@ -73,10 +71,10 @@ Currently finalizing my Computer Science degree at Cairo University (graduating 
 
 | Project | Role | Stack | Links |
 |---|---|---|---|
-| **Hirely** *(In Progress)* | Front-End Dev · Graduation Project | React, Node | 🔒 Private |
-| **Petify** | UI Designer & Front-End Dev | React, Axios, Context API, Tailwind | [Repo](https://github.com/omnjja) · [Live](https://github.com/omnjja) |
-| **E-Commerce Store** | Front-End Developer | React, Tailwind, DaisyUI, Vercel | [Repo](https://github.com/omnjja) · [Live](https://github.com/omnjja) |
-| **Furniture Home** | Backend Developer | Spring Boot, Java, MySQL, REST APIs | [Repo](https://github.com/omnjja) |
+| **Hirely** | Front-End Dev · Graduation Project | React, Node | [Repo](https://github.com/omnjja/Hirely-Platform.git) · [Live](https://hirely-platform-liart.vercel.app/) |
+| **Petify** | UI Designer & Front-End Dev | React, Axios, Context API, Tailwind | [Repo](https://github.com/omnjja/Petify-Front-end.git) · [Live](https://petify-app-sigma.vercel.app/) |
+| **E-Commerce Store** | Front-End Developer | React, Tailwind, DaisyUI, Vercel | [Repo](https://github.com/Mariam-111/store.git) · [Live](https://store-jet-phi.vercel.app/) |
+| **Furniture Home** | Backend Developer | Spring Boot, Java, MySQL, REST APIs | [Repo](https://github.com/EgronX-Petify/Furniture-Home.git) |
 
 ---
 
